@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Udit Maurya</h1>
+<h1 align="center">Hi , I'm Udit Maurya</h1>
 <h3 align="center">
 Passionate learner focused on Machine Learning, Deep Learning & Generative AI | 
-🤖 AI-driven problem solver | 
-🔌 IoT & Edge AI hobbyist
+AI-driven problem solver | 
+IoT & Edge AI hobbyist
 </h3>
 
 
