@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Udit Maurya</h1>
-<h3 align="center">Passionate learner & tech enthusiast | 💻 IoT & Machine Learning Hobbyist | 🌐 Web & App Developer</h3>
+<h3 align="center">
+Passionate learner focused on Machine Learning, Deep Learning & Generative AI | 
+🤖 AI-driven problem solver | 
+🔌 IoT & Edge AI hobbyist
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit1567&label=Profile%20views&color=0e75b6&style=flat" alt="udit1567" /> </p>
 
